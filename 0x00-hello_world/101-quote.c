@@ -4,9 +4,9 @@
  * main - Entry point
  *
  * Description: A code that uses the write function
- * 	ssize_t write(int fd, const void *buf, size_t count);
+ *	ssize_t write(int fd, const void *buf, size_t count);
  *
- * 	Return: Error 1.
+ *	Return: Error 1.
  */
 
 int main(void)
