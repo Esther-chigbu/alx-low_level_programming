@@ -1,2 +1,1 @@
-# alx-low_level_programming
-Getting started on c language
+Functions and nested loops in c
