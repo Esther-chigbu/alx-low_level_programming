@@ -1,9 +1,9 @@
 #include"main.h"
 
 /**
- * main - Entry point
+ * Main - Entry point
  *
- * Description: This program prints the phrase _putchar
+ * Description: Program prints _putchar using putchar prototype
  *
  * Return: Always 0 (Success)
  */
@@ -15,8 +15,7 @@ int main(void)
 
 	for (ch = 0; ch < 8; ++ch)
 		_putchar(str[ch]);
-	putchar('\n');
-
+	_putchar('\n');
+	
 	return (0);
 }
-
